@@ -17,6 +17,8 @@
 | Week 3  | <ul><li>- [ ] Lecture 7</li><li>- [ ] Notes Ch.5 </li></ul>  | <ul><li>- [ ] Lecture 8</li><li>- [ ] Notes Ch.6 </li></ul>  | <ul><li>- [ ] Lecture 9</li><li>- [ ] Notes Ch.6 </li></ul> |
 
 
+
+
 | **CS106A**  | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
 | Week 1  | <ul><li>- [x] Lecture 1</li></ul>  | <ul><li>- [x] Lecture 2</li><li>- [x] Karel Ch.1-3 </li></ul>  | <ul><li>- [x] Lecture 3</li><li>- [x] Karel Ch. 4-6 </li></ul> |
