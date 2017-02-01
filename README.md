@@ -11,8 +11,7 @@
 
 |   | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
-| Week 1  | - [x] Lecture  | - [x] Lecture  |  - [x] Lecture |
-			 				 - [x] Karel 1-3   - [x] Karel 4-6
+| Week 1  | <ul><li>- [x] Lecture </li></ul>  | <ul><li>- [x] Lecture </li></ul>  | <ul><li>- [x] Lecture </li></ul> |
 | Week 2  |   |   |   |
 | Week 3  |   |   |   |
 
