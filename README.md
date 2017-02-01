@@ -22,7 +22,7 @@
 
 |   | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
-| Week 1  | <ul><li>- [x] Lecture </li></ul>  | <ul><li>- [x] Lecture </li></ul>  | <ul><li>- [x] Lecture </li></ul> |
+| Week 1  | <ul><li>- [ ] Lecture </li></ul>  | <ul><li>- [x] Lecture </li></ul>  | <ul><li>- [x] Lecture </li></ul> |
 | Week 2  |   |   |   |
 | Week 3  |   |   |   |
 
