@@ -1,6 +1,6 @@
 ### StanfordCS :evergreen_tree:
 
-* :computer — Programming Class
+* :computer: — Programming Class
 * :book: - Theory Class
 
 #### Quarter 1 **(Jan-Feb-March'17)**  
