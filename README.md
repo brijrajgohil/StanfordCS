@@ -9,7 +9,7 @@
 
 ##### *Progress*
 
-##### **CS103
+##### **CS103**
 
 |   | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
@@ -18,7 +18,7 @@
 | Week 3  |   |   |   |
 
 
-##### **CS106A
+##### **CS106A**
 
 |   | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
