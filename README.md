@@ -1,4 +1,4 @@
-### StanfordCS :evergreen_tree:
+### Stanford Computer Science :evergreen_tree:
 
 * :computer: — Programming Class
 * :book: - Theory Class
