@@ -9,6 +9,13 @@
 
 ##### *Progress*
 
+|   | Monday  | Wednesday  |  Friday |
+|---|---|---|---|
+| Week 1  | - [x] Lecture  | - [x] Lecture  |  - [x] Lecture |
+			 				 - [x] Karel 1-3   - [x] Karel 4-6
+| Week 2  |   |   |   |
+| Week 3  |   |   |   |
+
 
 1. CS103
 	1. Week 1
