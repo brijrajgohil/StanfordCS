@@ -1,4 +1,4 @@
-# StanfordCS :evergreen_tree:
+### StanfordCS :evergreen_tree:
 
 
 #### Quarter 1 **(Jan-Feb-March'17)**  
