@@ -12,23 +12,23 @@
 
 1. CS103
 	1. Week 1
-		1. - [x] Lectures
-		2. - [x] Reading
+		 - [x] Lectures
+		 - [x] Reading
 	2. Week 2
-		1. - [x] Lectures
-		2. - [] Reading
+		 - [x] Lectures
+		 - [] Reading
 	3. Week 3
-		1. - [] Lectures
-		2. - [] Reading
+		 - [] Lectures
+		 - [] Reading
 
 2. CS106A
 	1. Week 1
-		1. - [x] Lectures
-		2. - [x] Reading
+		 - [x] Lectures
+		 - [x] Reading
 	2. Week 2
-		1. - [x] Lectures
-		2. - [x] Reading
-		3. - [x] Assignment
+		 - [x] Lectures
+		 - [x] Reading
+		 - [x] Assignment
 	3. Week 3
-		1. - [] Lectures
-		2. - [] Reading
+		 - [] Lectures
+		 - [] Reading
