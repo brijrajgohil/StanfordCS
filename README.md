@@ -23,7 +23,7 @@
 |---|---|---|---|
 | Week 1  | <ul><li>- [x] Lecture 1</li></ul>  | <ul><li>- [x] Lecture 2</li><li>- [x] Karel Ch.1-3 </li></ul>  | <ul><li>- [x] Lecture 3</li><li>- [x] Karel Ch. 4-6 </li></ul> |
 | Week 2  | <ul><li>- [x] No lecture </li></ul>  | <ul><li>- [x] Lecture 4</li><li>- [x] Ch.1-2</li></ul>  | <ul><li>- [x] Lecture 5</li><li>- [x] Ch. 3</li><li>- [x] Assignment 1</li></ul> |
-| Week 3  | <ul><li>- [x] Lecture 6</li><li>- [ ] Ch.4 </li></ul>  | <ul><li>- [ ] Lecture 7</li><li>- [ ] Ch.5 </li></ul>  | <ul><li>- [ ] Lecture 8</li><li>- [ ] Ch.6.1 </li></ul> |
+| Week 3  | <ul><li>- [x] Lecture 6</li><li>- [x] Ch.4 </li></ul>  | <ul><li>- [x] Lecture 7</li><li>- [x] Ch.5 </li></ul>  | <ul><li>- [x] Lecture 8</li><li>- [x] Ch.6.1 </li></ul> |
 
 
 
