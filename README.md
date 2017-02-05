@@ -12,10 +12,10 @@
 
 | **CS103**  | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
-| Week 1  | <ul><li>- [x] Lecture 1</li><li>- [ ] Notes Ch.1 </li></ul>  | <ul><li>- [x] Lecture 2</li><li>- [ ] Notes Ch.2 </li></ul>  | <ul><li>- [x] Lecture 3</li><li>- [ ] Notes Ch.2 </li></ul> |
-| Week 2  | <ul><li>- [x] Lecture 4 </li></ul>  | <ul><li>- [x] Lecture 5</li></ul>  | <ul><li>- [x] Lecture 6</li><li>- [ ] PS1 </li></ul> |
-| Week 3  | <ul><li>- [ ] Lecture 7</li><li>- [ ] Notes Ch.5 </li></ul>  | <ul><li>- [ ] Lecture 8</li><li>- [ ] Notes Ch.6 </li></ul>  | <ul><li>- [ ] Lecture 9</li><li>- [ ] Notes Ch.6 </li></ul> |
-
+| Week 1  | <ul><li>- [x] Lecture 1</li></ul>  | <ul><li>- [x] Lecture 2</li></ul>  | <ul><li>- [x] Lecture 3</li></ul> |
+| Week 2  | <ul><li>- [x] Lecture 4 </li></ul>  | <ul><li>- [x] Lecture 5</li></ul>  | <ul><li>- [x] Lecture 6</li></ul> |
+| Week 3  | <ul><li>- [ ] Lecture 7</li></ul>  | <ul><li>- [ ] Lecture 8</li><li></li></ul>  | <ul><li>- [ ] Lecture 9</li></ul> |
+| Week 4  | <ul><li>- [ ] Lecture 10</li></ul>  | <ul><li>- [ ] Lecture 11</li><li></li></ul>  | <ul><li>- [ ] Lecture 12</li></ul> |
 
 
 
