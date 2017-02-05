@@ -27,4 +27,4 @@
 | Week 4  | <ul><li>- [ ] Lecture 9</li><li>- [ ] Ch.10.1-10.4 </li><li>- [x] Assignment 2</li></ul>  | <ul><li>- [ ] Lecture 10</li><li>- [ ] Ch.10.1-10.4</li></ul>  | <ul><li>- [ ] Lecture 11</li><li>- [ ] Ch.7 </li></ul> |
 
 
-##### *Interesting in joining me* [Email!](mailto:brijrajsinhgohil.gohil@gmail.com)
+##### *Interesting in joining me* [Email!](mailto:brijrajsinhgohil.gohil@gmail.com) :blush:
