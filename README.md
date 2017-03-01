@@ -16,7 +16,7 @@
 | Week 2  | <ul><li>- [x] Lecture 4 </li></ul>  | <ul><li>- [x] Lecture 5</li></ul>  | <ul><li>- [x] Lecture 6</li></ul> |
 | Week 3  | <ul><li>- [x] Lecture 7</li></ul>  | <ul><li>- [x] Lecture 8</li></ul>  | <ul><li>- [x] Lecture 9</li></ul> |
 | Week 4  | <ul><li>- [x] Lecture 10</li></ul>  | <ul><li>- [x] Lecture 11</li></ul>  | <ul><li>- [x] Lecture 12</li></ul> |
-| Week 5  | <ul><li>- [x] Lecture 13</li></ul>  | <ul><li>- [ ] Lecture 14</li></ul>  | <ul><li>- [ ] Lecture 15</li></ul> |
+| Week 5  | <ul><li>- [x] Lecture 13</li></ul>  | <ul><li>- [x] Lecture 14</li></ul>  |
 
 
 
