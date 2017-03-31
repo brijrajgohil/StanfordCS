@@ -30,7 +30,7 @@
 | Week 5  | <ul><li>- [x] Lecture 12</li><li>- [x] Ch.8.1-8.4 </li></ul>  | <ul><li>- [x] Lecture 13</li><li>- [x] Ch.8.5</li></ul>  | <ul><li>- [x] Lecture 14</li><li>- [x] Ch.12.4 </li></ul> |
 | Week 6  | <ul><li>- [x] No Lecture </li></ul>  | <ul><li>- [x] Lecture 15</li><li>- [x] Ch.11.1-11.8</li></ul>  | <ul><li>- [x] Lecture 16</li><li>- [x] Ch.11.1-11.8 </li></ul> |
 | Week 7  | <ul><li>- [x] No Lecture </li></ul>  | <ul><li>- [x] Lecture 17 </li></ul>  | <ul><li>- [x] Lecture 18 </li><li>- [ ] Ch.13 </li></ul> |
-| Week 8  | <ul><li>- [x] Lecture 19 </li><li>- [ ] Ch.10.5-10.8 </li></ul>  | <ul><li>- [ ] Lecture 20 </li></ul>  | <ul><li>- [ ] Lecture 21 </li></ul> |
+| Week 8  | <ul><li>- [x] Lecture 19 </li><li>- [ ] Ch.10.5-10.8 </li></ul>  | <ul><li>- [x] Lecture 20 </li></ul>  | <ul><li>- [x] Lecture 21 </li></ul> |
 
 
 ##### *Interested in joining me* [Email!](mailto:brijrajsinhgohil.gohil@gmail.com) :blush:
