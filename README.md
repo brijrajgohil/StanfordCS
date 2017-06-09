@@ -17,7 +17,8 @@
 | Week 3  | <ul><li>- [x] Lecture 7</li></ul>  | <ul><li>- [x] Lecture 8</li></ul>  | <ul><li>- [x] Lecture 9</li></ul> |
 | Week 4  | <ul><li>- [x] Lecture 10</li></ul>  | <ul><li>- [x] Lecture 11</li></ul>  | <ul><li>- [x] Lecture 12</li></ul> |
 | Week 5  | <ul><li>- [x] No Lecture</li></ul>| <ul><li>- [x] Lecture 13</li></ul>  | <ul><li>- [x] Lecture 14</li></ul>  |
-| Week 6  | <ul><li>- [ ] Lecture 15</li></ul>  | <ul><li>- [ ] Lecture 16</li></ul>  | <ul><li>- [ ] Lecture 17</li></ul> |
+| Week 6  | <ul><li>- [x] Lecture 15</li></ul>  | <ul><li>- [x] Lecture 16</li></ul>  | <ul><li>- [x] Lecture 17</li></ul> |
+| Week 7  | <ul><li>- [x] Lecture 18</li></ul>  | <ul><li>- [x] Lecture 19</li></ul>  | <ul><li>- [x] Lecture 20</li></ul> |
 
 
 
@@ -29,9 +30,9 @@
 | Week 4  | <ul><li>- [x] Lecture 9</li><li>- [x] Ch.10.1-10.4 </li></ul>  | <ul><li>- [x] Lecture 10</li><li>- [x] Ch.10.1-10.4</li></ul>  | <ul><li>- [x] Lecture 11</li><li>- [x] Ch.7 </li></ul> |
 | Week 5  | <ul><li>- [x] Lecture 12</li><li>- [x] Ch.8.1-8.4 </li></ul>  | <ul><li>- [x] Lecture 13</li><li>- [x] Ch.8.5</li></ul>  | <ul><li>- [x] Lecture 14</li><li>- [x] Ch.12.4 </li></ul> |
 | Week 6  | <ul><li>- [x] No Lecture </li></ul>  | <ul><li>- [x] Lecture 15</li><li>- [x] Ch.11.1-11.8</li></ul>  | <ul><li>- [x] Lecture 16</li><li>- [x] Ch.11.1-11.8 </li></ul> |
-| Week 7  | <ul><li>- [x] No Lecture </li></ul>  | <ul><li>- [x] Lecture 17 </li></ul>  | <ul><li>- [x] Lecture 18 </li><li>- [ ] Ch.13 </li></ul> |
-| Week 8  | <ul><li>- [x] Lecture 19 </li><li>- [ ] Ch.10.5-10.8 </li></ul>  | <ul><li>- [x] Lecture 20 </li></ul>  | <ul><li>- [x] Lecture 21 </li></ul>
-| Week 9 | <ul><li>- [x] Lecture 22 </li><li>- [ ] Ch.10.5-10.8 </li></ul>  | <ul><li>- [x] Lecture 23 </li></ul>  | <ul><li>- [x] Lecture 24 </li></ul>
+| Week 7  | <ul><li>- [x] No Lecture </li></ul>  | <ul><li>- [x] Lecture 17 </li></ul>  | <ul><li>- [x] Lecture 18 </li><li>- [x] Ch.13 </li></ul> |
+| Week 8  | <ul><li>- [x] Lecture 19 </li><li>- [x] Ch.10.5-10.8 </li></ul>  | <ul><li>- [x] Lecture 20 </li></ul>  | <ul><li>- [x] Lecture 21 </li></ul>
+| Week 9 | <ul><li>- [x] Lecture 22 </li><li>- [x] Ch.10.5-10.8 </li></ul>  | <ul><li>- [x] Lecture 23 </li></ul>  | <ul><li>- [x] Lecture 24 </li></ul>
 
 
 **Notes**
