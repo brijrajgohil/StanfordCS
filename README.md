@@ -2,8 +2,8 @@
 
 * :computer: — Programming Class
 * :book: — Theory Class
-* :white_check_mark: - Complete
-:hourglass: - In Progress
+* :white_check_mark: — Complete
+* :hourglass: — In Progress
 
 
 #### Winter Quarter **(Jan-Feb-March'17)**  
