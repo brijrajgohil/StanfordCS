@@ -48,8 +48,19 @@
 | Week 10 | <ul><li>- [x] Lecture 25 </li></ul>  | <ul><li>- [x] Lecture 26 </li></ul>  | <ul><li>- [x] Lecture 27 </li></ul>
 
 
-**Notes**
-Getting back in the game
+
+| **CS106B**  | Monday  | Wednesday  |  Friday |
+|---|---|---|---|
+| Week 1  | <ul><li>- [x] Lecture 1</li><li>- [x] Ch.1 </li></ul>  | <ul><li>- [x] Lecture 2</li><li>- [x] Ch.2-3 </li></ul>  | <ul><li>- [x] Lecture 3</li><li>- [ ] Ch.4 </li></ul> |
+| Week 2  | <ul><li>- [ ] Lecture 4</li><li>- [ ] Ch.5.1-5.2 </li></ul>  | <ul><li>- [ ] Lecture 5</li><li>- [ ] Ch.5.2-5.3 </li></ul>  | <ul><li>- [ ] Lecture 6</li><li>- [ ] Ch.5.4-5.6 </li></ul> |
+
+
+
+
+| **CS142**  | Monday  | Wednesday  |  Friday |
+|---|---|---|---|
+| Week 1  | <ul><li>- [x] Lecture 1</li></ul>  | <ul><li>- [x] Lecture 2</li></ul>  | <ul><li>- [x] Lecture 3</li></ul> |
+| Week 2  | <ul><li>- [ ] Lecture 4</li></ul>  | <ul><li>- [ ] Lecture 5</li></ul>  | <ul><li>- [ ] Lecture 6</li></ul> |
 
 
 ##### *Interested in joining me* [Email!](mailto:brijrajsinhgohil.gohil@gmail.com) :blush:
