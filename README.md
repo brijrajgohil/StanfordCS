@@ -31,7 +31,7 @@
 | Week 9  | <ul><li>- [x] No Lecture </li></ul>  | <ul><li>- [x] Lecture 24</li></ul>  | <ul><li>- [x] Lecture 25</li></ul> |
 | Week 10  | <ul><li>- [x] Lecture 26</li></ul>  | <ul><li>- [x] Lecture 27</li></ul>  | <ul><li>- [x] No Lecture </li></ul> |
 
-
+<br/><br/><br/>
 
 
 | **CS106A**  | Monday  | Wednesday  |  Friday |
@@ -47,7 +47,7 @@
 | Week 9 | <ul><li>- [x] Lecture 22 </li><li>- [x] Ch.10.5-10.8 </li></ul>  | <ul><li>- [x] Lecture 23 </li></ul>  | <ul><li>- [x] Lecture 24 </li></ul>
 | Week 10 | <ul><li>- [x] Lecture 25 </li></ul>  | <ul><li>- [x] Lecture 26 </li></ul>  | <ul><li>- [x] Lecture 27 </li></ul>
 
-
+<br/><br/><br/>
 
 | **CS106B**  | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
@@ -55,7 +55,7 @@
 | Week 2  | <ul><li>- [ ] Lecture 4</li><li>- [ ] Ch.5.1-5.2 </li></ul>  | <ul><li>- [ ] Lecture 5</li><li>- [ ] Ch.5.2-5.3 </li></ul>  | <ul><li>- [ ] Lecture 6</li><li>- [ ] Ch.5.4-5.6 </li></ul> |
 
 
-
+<br/><br/><br/>
 
 | **CS142**  | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
