@@ -51,8 +51,9 @@
 
 | **CS106B**  | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
-| Week 1  | <ul><li>- [x] Lecture 1</li><li>- [x] Ch.1 </li></ul>  | <ul><li>- [x] Lecture 2</li><li>- [x] Ch.2-3 </li></ul>  | <ul><li>- [x] Lecture 3</li><li>- [ ] Ch.4 </li></ul> |
-| Week 2  | <ul><li>- [ ] Lecture 4</li><li>- [ ] Ch.5.1-5.2 </li></ul>  | <ul><li>- [ ] Lecture 5</li><li>- [ ] Ch.5.2-5.3 </li></ul>  | <ul><li>- [ ] Lecture 6</li><li>- [ ] Ch.5.4-5.6 </li></ul> |
+| Week 1  | <ul><li>- [x] Lecture 1</li><li>- [x] Ch.1 </li></ul>  | <ul><li>- [x] Lecture 2</li><li>- [x] Ch.2-3 </li></ul>  | <ul><li>- [x] Lecture 3</li><li>- [x] Ch.4 </li></ul> |
+| Week 2  | <ul><li>- [x] Lecture 4</li><li>- [x] Ch.5.1-5.2 </li></ul>  | <ul><li>- [x] Lecture 5</li><li>- [x] Ch.5.2-5.3 </li></ul>  | <ul><li>- [x] Lecture 6</li><li>- [x] Ch.5.4-5.6 </li></ul> |
+| Week 3  | <ul><li>- [ ] Lecture 7</li><li>- [ ] Ch.7 </li></ul>  | <ul><li>- [ ] Lecture 8</li><li>- [ ] Ch.7.5, 8.4 </li></ul>  | <ul><li>- [ ] Lecture 9</li><li>- [ ] Ch.8.2-8.2; 9 </li></ul> |
 
 
 <br/><br/>
@@ -60,7 +61,8 @@
 | **CS142**  | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
 | Week 1  | <ul><li>- [x] Lecture 1</li></ul>  | <ul><li>- [x] Lecture 2</li></ul>  | <ul><li>- [x] Lecture 3</li></ul> |
-| Week 2  | <ul><li>- [ ] Lecture 4</li></ul>  | <ul><li>- [ ] Lecture 5</li></ul>  | <ul><li>- [ ] Lecture 6</li></ul> |
+| Week 2  | <ul><li>- [x] Lecture 4</li></ul>  | <ul><li>- [x] Lecture 5</li></ul>  | <ul><li>- [x] Lecture 6</li></ul> |
+| Week 2  | <ul><li>- [ ] Lecture 7</li></ul>  | <ul><li>- [ ] Lecture 8</li></ul>  | <ul><li>- [ ] Lecture 9</li></ul> |
 
 
 ##### *Interested in joining me* [Email!](mailto:brijrajsinhgohil.gohil@gmail.com) :blush:
