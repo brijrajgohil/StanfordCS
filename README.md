@@ -64,7 +64,7 @@
 | Week 7  | <ul><li>- [x] Lecture 19</li><li>- [x] Ch.16.1 </li></ul>  | <ul><li>- [x] Lecture 20</li></ul>  | <ul><li>- [x] Lecture 21</li><li>- [x] Ch.16.1-16.3 </li></ul> |
 | Week 8  | <ul><li>- [x] Lecture 22</li><li>- [x] Ch.15 </li></ul>  | <ul><li>- [x] Lecture 23</li><li>- [x] Ch.18 </li></ul>  | <ul><li>- [x] Lecture 24</li><li>- [x] Ch.18 </li></ul> |
 | Week 9  | <ul><li>- [x] No Lecture </li></ul>  | <ul><li>- [x] No Lecture</li></ul>  | <ul><li>- [x] No Lecture</li></ul> |
-| Week 10  | <ul><li>- [x] Lecture 25</li></ul>  | <ul><li>- [x] Lecture 26</li><li>- [x] Ch.18.6 </li></ul>  | <ul><li>- [x] Lecture 27</li><</ul> |
+| Week 10  | <ul><li>- [x] Lecture 25</li></ul>  | <ul><li>- [x] Lecture 26</li><li>- [x] Ch.18.6 </li></ul>  | <ul><li>- [x] Lecture 27</li></ul> |
 | Week 11  | <ul><li>- [x] Lecture 28</li></ul>  | <ul><li>- [x] Lecture 29</li></ul>  | <ul><li>- [x] Lecture 30</li></ul> |
 
 
@@ -87,11 +87,13 @@
 
 <br></br>
 | **CS107**  | Monday  |  Friday |
+|---|---|---|---|
 
 
 <br></br>
 
 | **CS109**  | Monday  | Wednesday  |  Friday |
+|---|---|---|---|
 
 
 
