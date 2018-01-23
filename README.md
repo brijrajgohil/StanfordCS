@@ -95,7 +95,7 @@
 
 | **CS109**  | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
-| Week 1  | <ul><li>- [ ] Lecture 1</li><li>- [ ] Ch.1.1-1.2 </li></ul>  | <ul><li>- [ ] Lecture 2</li><li>- [ ] Ch.1.3-1.6 </li></ul>  | <ul><li>- [ ] Lecture 3</li><li>- [ ] Ch.2.1-2.5,2.7 </li></ul> |
+| Week 1  | <ul><li>- [x] Lecture 1</li><li>- [ ] Ch.1.1-1.2 </li></ul>  | <ul><li>- [ ] Lecture 2</li><li>- [ ] Ch.1.3-1.6 </li></ul>  | <ul><li>- [ ] Lecture 3</li><li>- [ ] Ch.2.1-2.5,2.7 </li></ul> |
 
 
 
