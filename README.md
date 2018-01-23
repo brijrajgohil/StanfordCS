@@ -89,7 +89,7 @@
 
 | **CS107**  | Monday  | Wednesday  |  Friday |
 |---|---|---|---|
-| Week 1  | <ul><li>- [x] Lecture 1</li><li>- [ ] Ch.1,2 </li><li>- [ ] B&O Ch.1(skim) </li></ul>  | <ul><li>- [x] No Lab</li></ul>  | <ul><li>- [ ] Lecture 2</li><li>- [ ] Ch.3,6 </li><li>- [ ] B&O Ch.2.1 </li></ul> |
+| Week 1  | <ul><li>- [x] Lecture 1</li><li>- [ ] Ch.1,2 </li></ul>  | <ul><li>- [x] No Lab</li></ul>  | <ul><li>- [ ] Lecture 2</li><li>- [ ] Ch.3,6 </li></ul> |
 
 <br></br>
 
